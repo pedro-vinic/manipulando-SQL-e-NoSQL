@@ -1,4 +1,4 @@
-# Python Basic & Advanced
+# Carga Incremental e Envio de Dados para PostgreSQL
 
 Este repositório contém projetos focados na implementação de cargas incrementais e envio de dados para bancos de dados, utilizando SQLAlchemy e Psycopg2.
 
